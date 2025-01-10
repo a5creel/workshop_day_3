@@ -1,2 +1,5 @@
-# workshop_day_3
-my example repo
+# Workshop Day Three 
+this is the repo for the intro to programming workshop. 
+
+Date: January 10th, 2025
+Author: Andie Creel 
